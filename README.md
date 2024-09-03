@@ -6,9 +6,6 @@ We took two different approaches:
 - Using Mask R-CNN to predict fields and get the resulting polygon (Best)
 - Using UNET to perform pixel-wise prediction, predicting the boundary of fields
 
-Coming up:
-- Treating it as a problem to detect lines and junctions
-
 Sample Prediction (MRCNN):
 ![sample_mrcnn](https://github.com/user-attachments/assets/8886d69b-d314-4b4c-8c59-9439f8e6fbf9)
 
